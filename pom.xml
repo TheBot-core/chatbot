@@ -6,7 +6,7 @@
 
     <groupId>com.glowman554</groupId>
     <artifactId>chatbot</artifactId>
-    <version>-owo</version>
+    <version>1</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
